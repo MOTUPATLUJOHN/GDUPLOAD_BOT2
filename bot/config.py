@@ -4,6 +4,7 @@ class config:
     API_HASH = "55aae108fa622c180fd56a494ee902c2"
     DATABASE_URL = "postgres://geqzfvyumajeqt:095087042654c39133"
     SUDO_USERS = "1316071157" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/gdrivepro"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "236713111972-sffpspfc94s57skiu0tvpl7f2q4ehq8e.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "MlTtBHSffMUD_5nEiprd0YEI"
